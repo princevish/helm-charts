@@ -1,7 +1,7 @@
 dependencies:
 - name: newrelic-infrastructure
   repository: file://../newrelic-infrastructure
-  version: 2.4.1
+  version: 2.4.2
 - name: nri-prometheus
   repository: file://../nri-prometheus
   version: 1.7.0
@@ -23,5 +23,5 @@ dependencies:
 - name: pixie-chart
   repository: https://pixie-helm-charts.storage.googleapis.com
   version: 0.7.1
-digest: sha256:730631ee776f91e74ba4253e9164eb53d23c9aa5de7905fbc6e148255935cb65
-generated: "2021-04-27T18:50:28.761395+02:00"
+digest: sha256:f4897e481beca8bfa9a68706daa49d8d90cd7ec301683a494168f9d9ab0884eb
+generated: "2021-04-28T15:29:55.075484+02:00"
